@@ -2,7 +2,7 @@
 
 The **index.html** file contains the entire game of flappy bird... In only **333 bytes**.
 
-You can watch the video on how I created this [Here](https://youtu.be/YWVgBLknHcg?si=EdNDEJZQziDPvCmL)
+I made [this video](https://youtu.be/YWVgBLknHcg?si=EdNDEJZQziDPvCmL) on the development and how the code works.
 
 # The Code
 
