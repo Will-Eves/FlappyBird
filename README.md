@@ -1,6 +1,12 @@
+# About
+
 The **index.html** file contains the entire game of flappy bird... In only **333 bytes**.
 
 You can watch the video on how I created this [Here](https://youtu.be/YWVgBLknHcg?si=EdNDEJZQziDPvCmL)
+
+# The Code
+
+The code structure is relatively simple. It is written in HTML and JavaScript. There is just a canvas, and a script.
 
 ```html
 <canvas width=600 height=450 id=b></canvas>
